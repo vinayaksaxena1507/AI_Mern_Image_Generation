@@ -64,8 +64,7 @@ The following dependencies must be installed in order for the software to work:
         - File-saver
         - React-dom
         - React-router-dom
-        - Lodash
-        - React-helmet
+        - Tailwind
         <br/>
     **Backend (Server folder)**:
         - Express
@@ -109,7 +108,6 @@ cd client
 
 ```sh
 npm run start
-
 ``` 
 <br/>
 
@@ -140,7 +138,6 @@ Cd into the server folder and create a `.env` file and fill it with your credent
     CLOUDINARY_CLOUD_NAME=""
     CLOUDINARY_API_KEY=""
     CLOUDINARY_API_SECRET=""
-
 ```
 <br/>
 
@@ -154,4 +151,4 @@ You can also visit the `/showcase` route to view all the AI generated images
 
 <br/>
 
-
+<br/>
